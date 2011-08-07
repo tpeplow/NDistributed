@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NDistributed.Infrastructure.UnitTesting", "NDistributed.Infrastructure.UnitTesting\NDistributed.Infrastructure.UnitTesting.csproj", "{C029F9F5-EE4E-4576-BFB1-F41ED6A5C57E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C029F9F5-EE4E-4576-BFB1-F41ED6A5C57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C029F9F5-EE4E-4576-BFB1-F41ED6A5C57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C029F9F5-EE4E-4576-BFB1-F41ED6A5C57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C029F9F5-EE4E-4576-BFB1-F41ED6A5C57E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
